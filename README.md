@@ -69,9 +69,9 @@ install.packages(c("caTools", "class", "e1071", "rpart", "randomForest", "caret"
 4. Run the script and check out the results.
 
 ## Future Scope 💡 
-Add a larger dataset to enhance the model's learning. <br>
-Try deep learning models for better predictions. <br>
-Fine-tune hyperparameters for optimized performance.
+- Add a larger dataset to enhance the model's learning. <br>
+- Try deep learning models for better predictions. <br>
+- Fine-tune hyperparameters for optimized performance.
 
 
 ## Acknowledgments🤝 
