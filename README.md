@@ -1,4 +1,4 @@
-# Stroke Prediction 🚀
+# Stroke Prediction 
 
 Welcome to my project! This is all about predicting strokes using some cool machine learning algorithms and comparing how well they perform. I used a healthcare dataset with features like age, hypertension, and smoking status to train and test models.
 
