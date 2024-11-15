@@ -33,6 +33,8 @@ Welcome to my project! This is all about predicting strokes using some cool mach
 ## 🔍 Dataset Overview
 The dataset, sourced from Kaggle, contains 4,910 rows and 11 features. Missing values in the BMI column were handled by removing incomplete rows. Categorical variables were converted to factors for compatibility with machine learning models.
 
+Dataset : [Stroke Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+
 ## 📊 Algorithms Used
 I tested out the following models:
 - **K-Nearest Neighbors (KNN)**
